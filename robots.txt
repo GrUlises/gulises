@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /img/
+Disallow: /includes/
+Sitemap: http://www.grupoulises.com/sitemap.xml
